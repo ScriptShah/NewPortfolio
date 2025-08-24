@@ -44,17 +44,17 @@ export const developerInfo: DeveloperInfo = {
   socialLinks: [
     {
       name: "GitHub",
-      url: "https://github.com/yourusername",
+      url: "https://github.com/scriptshah/yourusername",
       icon: "FiGithub",
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/yourusername",
+      url: "https://x.com/scriptshah/yourusername",
       icon: "FiTwitter",
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://www.linkedin.com/in/scriptshah//in/yourusername",
       icon: "FiLinkedin",
     },
   ],

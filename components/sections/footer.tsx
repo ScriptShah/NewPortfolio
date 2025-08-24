@@ -39,7 +39,7 @@ export const Footer = () => {
                 isExternal
                 aria-label="GitHub"
                 className="dark:bg-white/10 bg-black/5 hover:bg-primary/20 p-3 rounded-full transition-colors"
-                href="https://github.com/yourusername"
+                href="https://github.com/scriptshah/yourusername"
               >
                 <FiGithub className="dark:text-white text-gray-900" size={18} />
               </Link>
@@ -47,7 +47,7 @@ export const Footer = () => {
                 isExternal
                 aria-label="Twitter"
                 className="dark:bg-white/10 bg-black/5 hover:bg-primary/20 p-3 rounded-full transition-colors"
-                href="https://twitter.com/yourusername"
+                href="https://x.com/scriptshah/yourusername"
               >
                 <FiTwitter
                   className="dark:text-white text-gray-900"
@@ -58,7 +58,7 @@ export const Footer = () => {
                 isExternal
                 aria-label="LinkedIn"
                 className="dark:bg-white/10 bg-black/5 hover:bg-primary/20 p-3 rounded-full transition-colors"
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/scriptshah//in/yourusername"
               >
                 <FiLinkedin
                   className="dark:text-white text-gray-900"

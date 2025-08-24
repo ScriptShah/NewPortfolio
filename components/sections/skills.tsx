@@ -573,7 +573,7 @@ export const Skills = () => {
                   as="a"
                   className="mt-4 md:mt-0"
                   color="primary"
-                  href="https://github.com/yourusername"
+                  href="https://github.com/scriptshah/yourusername"
                   radius="full"
                   size="sm"
                   startContent={<FiGithub />}

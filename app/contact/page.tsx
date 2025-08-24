@@ -107,7 +107,7 @@ export default function ContactPage() {
                 <a
                   aria-label="GitHub"
                   className="bg-primary/10 hover:bg-primary/20 text-primary p-2 rounded-full transition-colors"
-                  href="https://github.com/yourusername"
+                  href="https://github.com/scriptshah/yourusername"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -123,7 +123,7 @@ export default function ContactPage() {
                 <a
                   aria-label="Twitter"
                   className="bg-primary/10 hover:bg-primary/20 text-primary p-2 rounded-full transition-colors"
-                  href="https://twitter.com/yourusername"
+                  href="https://x.com/scriptshah/yourusername"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -139,7 +139,7 @@ export default function ContactPage() {
                 <a
                   aria-label="LinkedIn"
                   className="bg-primary/10 hover:bg-primary/20 text-primary p-2 rounded-full transition-colors"
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/scriptshah//in/yourusername"
                   rel="noopener noreferrer"
                   target="_blank"
                 >

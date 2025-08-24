@@ -176,7 +176,7 @@ export default function Blog({ data }) {
             <p>Ready to dive deeper? Check out these resources:</p>
             <ul class="list-disc pl-5 mt-2 space-y-1 text-sm">
               <li><a href="https://nextjs.org/learn" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Next.js Tutorial</a></li>
-              <li><a href="https://github.com/vercel/next.js/tree/canary/examples" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Next.js Examples</a></li>
+              <li><a href="https://github.com/scriptshah/vercel/next.js/tree/canary/examples" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Next.js Examples</a></li>
               <li><a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Official Documentation</a></li>
             </ul>
           </div>

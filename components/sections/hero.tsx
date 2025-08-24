@@ -82,8 +82,8 @@ export const Hero = () => {
   const containerRef = useRef<HTMLDivElement>(null);
 
   // Developer name - centralized for consistency
-  const developerName = "Johan Beker";
-  const developerLocation = "Berlin, Germany";
+  const developerName = "Ahmadshah Donishyar";
+  const developerLocation = "Herat, Afghanistan";
 
   // Smooth spring animation for mouse movement
   const smoothMouseX = useSpring(mouseX, { damping: 20, stiffness: 300 });
@@ -128,9 +128,9 @@ export const Hero = () => {
 
   // Skill cycles
   const skills = [
-    "Full Stack Developer",
-    "UI Designer",
-    "UX Architect",
+    "Frontend Developer",
+    "Web Developer",
+    "Frontend Engineer",
     "React Expert",
     "Next.js Developer",
   ];
@@ -182,13 +182,13 @@ export const Hero = () => {
                 variant="flat"
               >
                 <span className="px-2 py-1 text-primary">
-                  Developer & Designer
+                  Developer
                 </span>
               </Badge>
 
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-[1.1] tracking-tight mb-6 text-foreground">
                 {developerName}{" "}
-                <span className="text-primary premium-highlight">Digital</span>{" "}
+                <span className="text-primary premium-highlight">Frontend</span>{" "}
                 Experiences with Precision
               </h1>
 
@@ -263,7 +263,7 @@ export const Hero = () => {
             animate="show"
             className="lg:col-span-7 flex flex-col items-start text-left"
           >
-            <motion.div variants={item}>
+            {/* <motion.div variants={item}>
               <Badge
                 className="mb-4 md:mb-6 border border-primary/20 glass-premium"
                 color="primary"
@@ -271,18 +271,18 @@ export const Hero = () => {
                 variant="flat"
               >
                 <span className="px-2 py-1 text-primary text-sm md:text-base">
-                  Developer & Designer
+                  Developer
                 </span>
               </Badge>
-            </motion.div>
+            </motion.div> */}
 
             <motion.h1
               variants={item}
               className="text-3xl md:text-5xl lg:text-7xl font-bold leading-[1.1] tracking-tight mb-4 md:mb-6 text-foreground"
             >
               {developerName}{" "}
-              <span className="text-primary premium-highlight">Digital</span>{" "}
-              <span className="block md:inline">Experiences with Precision</span>
+              <span className="text-primary premium-highlight">Frontend </span>{" "}
+              <span className="block md:inline">Developer</span>
             </motion.h1>
 
             <motion.h2
@@ -297,9 +297,7 @@ export const Hero = () => {
               variants={item}
               className="text-base md:text-lg text-muted mb-6 md:mb-8 max-w-xl"
             >
-              I create immersive digital experiences through intuitive designs
-              and clean code, helping brands connect with their audience in
-              meaningful ways.
+              I specialize in crafting seamless and engaging digital experiences by blending intuitive design with clean, efficient code. With precision and creativity, I help brands bring their vision to life and connect with their audiences in meaningful, lasting ways.
             </motion.p>
 
             <motion.div
@@ -331,7 +329,7 @@ export const Hero = () => {
               className="flex items-center gap-4 sm:gap-6"
             >
               <motion.a
-                href="https://twitter.com"
+                href="https://x.com/scriptshah"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted hover:text-primary transition-colors duration-200"
@@ -341,7 +339,7 @@ export const Hero = () => {
                 <FiTwitter size={20} />
               </motion.a>
               <motion.a
-                href="https://github.com"
+                href="https://github.com/scriptshah"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted hover:text-primary transition-colors duration-200"
@@ -351,7 +349,7 @@ export const Hero = () => {
                 <FiGithub size={20} />
               </motion.a>
               <motion.a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/scriptshah/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted hover:text-primary transition-colors duration-200"
@@ -416,7 +414,7 @@ export const Hero = () => {
                     height={800}
                     src="/images/profile.jpeg"
                     width={600}
-                   
+
                   />
 
                   {/* Overlay gradient */}
@@ -454,7 +452,7 @@ export const Hero = () => {
                 transition={{ duration: 0.5, delay: 1 }}
               >
                 <div className="flex flex-col">
-                  <span className="text-xl font-bold text-primary">5+</span>
+                  <span className="text-xl font-bold text-primary">4+</span>
                   <span className="text-sm text-muted">Years Experience</span>
                 </div>
               </motion.div>
@@ -472,7 +470,7 @@ export const Hero = () => {
                 transition={{ duration: 0.5, delay: 1.2 }}
               >
                 <div className="flex flex-col">
-                  <span className="text-xl font-bold text-primary">100+</span>
+                  <span className="text-xl font-bold text-primary">20+</span>
                   <span className="text-sm text-muted">Projects Completed</span>
                 </div>
               </motion.div>

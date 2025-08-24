@@ -63,9 +63,9 @@ const developerInfo = {
   ],
   contactInfo: {
     email: "johan.beker@example.com",
-    github: "https://github.com/johanbeker",
-    linkedin: "https://linkedin.com/in/johanbeker",
-    twitter: "https://twitter.com/johanbeker",
+    github: "https://github.com/scriptshah/johanbeker",
+    linkedin: "https://www.linkedin.com/in/scriptshah//in/johanbeker",
+    twitter: "https://x.com/scriptshah/johanbeker",
   },
 };
 

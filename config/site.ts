@@ -78,9 +78,9 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/yourusername",
-    twitter: "https://twitter.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
+    github: "https://github.com/scriptshah/yourusername",
+    twitter: "https://x.com/scriptshah/yourusername",
+    linkedin: "https://www.linkedin.com/in/scriptshah//in/yourusername",
     portfolio: "https://yourportfolio.com",
     email: "mailto:your.email@example.com",
   },

@@ -44,8 +44,8 @@ This project was created for the HeroUI Hackathon in the **Portfolio Track**. My
 - [Framer Motion](https://www.framer.com/motion/) - Animation library
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
 - [GSAP](https://greensock.com/gsap/) - Advanced animations
-- [react-lenis](https://github.com/studio-freight/react-lenis) - Smooth scrolling
-- [next-themes](https://github.com/pacocoursey/next-themes) - Theme management
+- [react-lenis](https://github.com/scriptshah/studio-freight/react-lenis) - Smooth scrolling
+- [next-themes](https://github.com/scriptshah/pacocoursey/next-themes) - Theme management
 
 ## 📂 Project Structure
 
@@ -141,7 +141,7 @@ This feature enhances user engagement and provides a modern, interactive way for
 
 ```bash
 # Clone the repository
-git clone https://github.com/SooryaCodes/myfolio-heroui.git
+git clone https://github.com/scriptshah/SooryaCodes/myfolio-heroui.git
 
 # Navigate to the project directory
 cd myfolio-heroui

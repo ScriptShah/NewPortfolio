@@ -434,7 +434,7 @@ export const Contact = () => {
                             isExternal
                             aria-label="GitHub"
                             className="p-3.5 rounded-xl bg-foreground/10 text-foreground hover:bg-primary hover:text-white transition-all shadow-sm hover:scale-110"
-                            href="https://github.com/yourusername"
+                            href="https://github.com/scriptshah/yourusername"
                           >
                             <FiGithub size={20} />
                           </Link>
@@ -444,7 +444,7 @@ export const Contact = () => {
                             isExternal
                             aria-label="LinkedIn"
                             className="p-3.5 rounded-xl bg-foreground/10 text-foreground hover:bg-primary hover:text-white transition-all shadow-sm hover:scale-110"
-                            href="https://linkedin.com/in/yourusername"
+                            href="https://www.linkedin.com/in/scriptshah//in/yourusername"
                           >
                             <FiLinkedin size={20} />
                           </Link>
@@ -454,7 +454,7 @@ export const Contact = () => {
                             isExternal
                             aria-label="Twitter"
                             className="p-3.5 rounded-xl bg-foreground/10 text-foreground hover:bg-primary hover:text-white transition-all shadow-sm hover:scale-110"
-                            href="https://twitter.com/yourusername"
+                            href="https://x.com/scriptshah/yourusername"
                           >
                             <FiTwitter size={20} />
                           </Link>
